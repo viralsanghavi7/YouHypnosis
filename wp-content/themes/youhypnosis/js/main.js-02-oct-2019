@@ -1,0 +1,111 @@
+/* Banner Slider */
+
+    var swiper1 = new Swiper('.swiper1', {
+      spaceBetween: 0,
+	  loop: true,
+	  centeredSlides: true,
+      autoplay: {
+        delay: 5500,
+        disableOnInteraction: false,
+      },
+      pagination: {
+        el: '.swiper-pagination1',
+        clickable: true,
+      },
+	   navigation: {
+        nextEl: '.swiper-button-next1',
+        prevEl: '.swiper-button-prev1',
+      },
+    });
+	
+	
+
+	var swiper2 = new Swiper('.swiper2', {
+      spaceBetween: 0,
+	  loop: true,
+	  centeredSlides: true,
+      autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+      },
+      // init: false,
+	  pagination: {
+        el: '.swiper-pagination2',
+        clickable: true,
+      },
+    });
+	
+	
+	
+	var swiper3 = new Swiper('.swiper3', {
+      slidesPerView: 4,
+      spaceBetween: 0,
+	  autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+      },
+	  loop: true,
+      // init: false,
+      navigation: {
+        nextEl: '.swiper-button-next3',
+        prevEl: '.swiper-button-prev3',
+      },
+      breakpoints: {
+        1024: {
+          slidesPerView: 4,
+          spaceBetween: 40,
+        },
+        768: {
+          slidesPerView: 3,
+          spaceBetween: 30,
+        },
+        640: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 10,
+        }
+      }
+    });
+	
+
+	
+	// Menu toggle
+
+ $menuTrack = false;
+
+$(".MenuBtn").click(function(){
+  if($menuTrack==false){
+  $(this).addClass("active");
+  $(".mainMenu").addClass("active");
+  $menuTrack=true;
+  }else{
+    
+  $(this).removeClass("active");
+  $(".mainMenu").removeClass("active");
+    $(".mainMenu ul li ul.subMenu").removeClass("subActive");
+    $menuTrack=false;
+  }
+  });
+  
+  $("li.hadSubMenu > i").click(function(){
+    $(".mainMenu ul li ul.subMenu").addClass("subActive");
+    });
+    
+  $(".backMenu").click(function(){
+    $(".mainMenu ul li ul.subMenu").removeClass("subActive");
+    });
+	
+var $w = $(window);
+var headerStickyTop = $("#header").height();
+$(window).scroll(function(){
+	var scrollTop = $w.scrollTop();
+	if (scrollTop > headerStickyTop) {
+		$(".bot-header").addClass("headerFixed");
+	}
+	else {
+		$(".bot-header").removeClass("headerFixed");
+	}
+})
