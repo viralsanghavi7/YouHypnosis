@@ -51,7 +51,7 @@
       <nav id="mainMenu">
         <ul>
           <li class="menu-item"> <a href="http://localhost:8888/youhypnosis/" class="active"> Home </a> </li>
-          <li class="submainMenu"> <a href="/youhypnosis/youhypnosis/about-us"> About us <i class="fa fa-angle-down d-none d-lg-block d-md-block" aria-hidden="true"></i> </a> <i class="fa fa-angle-right mobile-arrow d-lg-none d-md-none" aria-hidden="true"></i>
+          <li class="submainMenu"> <a href="/youhypnosis/about-us"> About us <i class="fa fa-angle-down d-none d-lg-block d-md-block" aria-hidden="true"></i> </a> <i class="fa fa-angle-right mobile-arrow d-lg-none d-md-none" aria-hidden="true"></i>
             <ul class="submenu">
 			<li class="menu-item"><a href="http://localhost:8888/youhypnosis/about-us/meet-your-hypnotherapist/ "> Meet Your Hypnotherapist </a></li>
               <li class="menu-item"><a href="/youhypnosis/testimonial"> Testimonials </a></li>
