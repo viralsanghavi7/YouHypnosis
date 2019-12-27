@@ -18,7 +18,7 @@ get_header(); ?>
           <p><strong>Professional Life Coaching and <br>
             Hypnotherapy are powerful tools for rapid personal transformation. <br>
             Live a happier, healthier, and more fulfilling life. </strong></p>
-          <a href="http://localhost:8888/youhypnosis/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a> </div>
+          <a href="http://localhost:8888/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a> </div>
       </div>
       <div class="swiper-slide"> <img src="<?php bloginfo('template_directory'); ?>/images/banner2.jpg" class="img-fluid">
         <div class="slide-caption">
@@ -26,7 +26,7 @@ get_header(); ?>
           <p><strong>Professional Life Coaching and <br>
             Hypnotherapy are powerful tools for rapid personal transformation. <br>
             Live a happier, healthier, and more fulfilling life. </strong></p>
-          <a href="http://localhost:8888/youhypnosis/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a> </div>
+          <a href="http://localhost:8888/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a> </div>
       </div>
       <div class="swiper-slide"> <img src="<?php bloginfo('template_directory'); ?>/images/banner3.jpg" class="img-fluid">
         <div class="slide-caption">
@@ -34,7 +34,7 @@ get_header(); ?>
           <p><strong>Professional Life Coaching and <br>
             Hypnotherapy are powerful tools for rapid personal transformation. <br>
             Live a happier, healthier, and more fulfilling life. </strong></p>
-          <a href="http://localhost:8888/youhypnosis/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a> </div>
+          <a href="http://localhost:8888/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a> </div>
       </div>
       <div class="swiper-slide"> <img src="<?php bloginfo('template_directory'); ?>/images/banner4.jpg" class="img-fluid">
         <div class="slide-caption">
@@ -42,7 +42,7 @@ get_header(); ?>
           <p><strong> Professional Life Coaching and <br>
             Hypnotherapy are powerful tools for rapid personal transformation. <br>
             Live a happier, healthier, and more fulfilling life. </strong></p>
-          <a href="http://localhost:8888/youhypnosis/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a> </div>
+          <a href="http://localhost:8888/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a> </div>
       </div>
     </div>
     <!-- Add Pagination -->

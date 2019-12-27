@@ -69,7 +69,7 @@
             </ul>
           </li>
           <li class="menu-item"> <a href="/youhypnosis/blog"> Blog </a> </li>
-          <li class="menu-item"> <a href="/youhypnosis/contact-us"> Contact Us </a> </li>
+          <li class="menu-item"> <a href="/contact-us"> Contact Us </a> </li>
         </ul>
       </nav>
     </div>

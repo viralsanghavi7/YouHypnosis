@@ -37,7 +37,7 @@
           <li> <a href="http://localhost:8888/youhypnosis/services/weight-loss/"> Services </a> </li>
           <li> <a href="http://localhost:8888/youhypnosis/blog/> Blog </a> </li>
           <li> <a href="http://localhost:8888/youhypnosis/about-us/testimonial/"> Testimonials </a> </li>
-          <li> <a href="http://localhost:8888/youhypnosis/contact-us/"> Contact us </a> </li>
+          <li> <a href="http://localhost:8888/contact-us/"> Contact us </a> </li>
         </ul>
       </div>
       <div class="col-sm-4 col-md-4">

@@ -21,7 +21,7 @@ get_header(); ?>
 	<div class="slide-caption">
           <h3> Services Offered </h3>
           <p><strong>Transform Your Life. Professional Life Coaching and <br> Hypnotherapy are powerful tools for rapid personal transformation. <br> Live a happier, healthier, and more fulfilling life. </strong></p>
-          <a href="http://localhost:8888/youhypnosis/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a>
+          <a href="http://localhost:8888/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a>
         </div>  
 	  </div>
 	  
@@ -31,7 +31,7 @@ get_header(); ?>
 	<div class="slide-caption">
           <h3> Services Offered </h3>
           <p><strong>Transform Your Life. Professional Life Coaching and <br> Hypnotherapy are powerful tools for rapid personal transformation. <br> Live a happier, healthier, and more fulfilling life. </strong></p>
-          <a href="http://localhost:8888/youhypnosis/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a>
+          <a href="http://localhost:8888/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a>
         </div>  
 	  </div>
 	  
@@ -41,7 +41,7 @@ get_header(); ?>
 	<div class="slide-caption">
           <h3> Services Offered </h3>
           <p><strong>Transform Your Life. Professional Life Coaching and <br> Hypnotherapy are powerful tools for rapid personal transformation. <br> Live a happier, healthier, and more fulfilling life. </strong></p>
-          <a href="http://localhost:8888/youhypnosis/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a>
+          <a href="http://localhost:8888/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a>
         </div>  
 	  </div>
 	  
@@ -51,7 +51,7 @@ get_header(); ?>
 	<div class="slide-caption">
           <h3> Services Offered </h3>
           <p><strong>Transform Your Life. Professional Life Coaching and <br> Hypnotherapy are powerful tools for rapid personal transformation. <br> Live a happier, healthier, and more fulfilling life. </strong></p>
-          <a href="http://localhost:8888/youhypnosis/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a>
+          <a href="http://localhost:8888/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a>
         </div>  
 	  </div>
 	  

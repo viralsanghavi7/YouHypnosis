@@ -26,7 +26,7 @@ get_header(); ?>
 
           <p>Live again in your skin! Hypnosis is an effective tool in helping<br> those with the process of weight loss.</p>
 
-          <a href="http://localhost:8888/youhypnosis/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a>
+          <a href="http://localhost:8888/contact-us/" class="sliderBut">MAKE AN APPOINTMENT </a>
 
         </div>  
 
