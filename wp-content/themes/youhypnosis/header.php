@@ -41,7 +41,7 @@
     <div class="container">
       <ul>
         <li><a href="tel:+512 213 5893"><i class="fa fa-volume-control-phone"></i> +512 213 5893</a></li>
-        <li><a href="mailto:info@youhypnosis.com"><i class="fa fa-envelope-open-o"></i> info@youhypnosis.com</a></li>
+        <li><a href="mailto:info.youhypnosis@gmail.com"><i class="fa fa-envelope-open-o"></i> info.youhypnosis@gmail.com</a></li>
       </ul>
     </div>
   </div>

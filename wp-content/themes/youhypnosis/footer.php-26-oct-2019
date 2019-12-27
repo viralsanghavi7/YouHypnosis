@@ -50,7 +50,7 @@
            <!--  <li class="square"> <a href="#"> <i class="fa fa-dribbble" aria-hidden="true"></i> </a> </li>						<li class="square"> <a href="#"> <i class="fa fa-pinterest-p" aria-hidden="true"></i> </a> </li> -->
           </ul>
 
-          <p class="footerEmail"> <a href="mailTo:info@youhypnosis.com"> <i class="fa fa-envelope"></i> info@youhypnosis.com </a> </p>
+          <p class="footerEmail"> <a href="mailTo:info.youhypnosis@gmail.com"> <i class="fa fa-envelope"></i> info.youhypnosis@gmail.com </a> </p>
         </div>
       </div>
     </div>
