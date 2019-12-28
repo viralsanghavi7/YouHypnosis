@@ -1378,8 +1378,8 @@ address {
     background: #ff3986;
     position: relative;
 }
-.contact-details .phone a { color: #fff;}
-.contact-details .mail a  { color: #fff; font-size: 30px; margin-top:20px; }
+.contact-details .phone a { color: #fff; font-size: 23px;}
+.contact-details .mail a  { color: #fff; font-size: 23px; margin-top:20px; }
 .contact-form {
     background: #fff;
     padding: 60px 60px  60px 125px;
