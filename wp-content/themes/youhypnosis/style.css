@@ -1376,6 +1376,7 @@ address {
 
 .contact-details {
     background: #ff3986;
+    position: relative;
 }
 .contact-details .phone a { color: #fff;}
 .contact-details .mail a  { color: #fff; font-size: 30px; margin-top:20px; }
