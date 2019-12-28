@@ -1007,7 +1007,9 @@ address {
 	font-style: normal;
 	line-height: inherit;
 	color: #fff;
-	font-size: 22px;
+	font-size: 20px;
+	padding-left: 2%;
+	padding-right: 2%;
 }
 .contact-address p {
 	color: #fff;
@@ -1378,8 +1380,10 @@ address {
     background: #ff3986;
     position: relative;
 }
-.contact-details .phone a { color: #fff; font-size: 23px;}
-.contact-details .mail a  { color: #fff; font-size: 23px; margin-top:20px; }
+.contact-details .phone a { color: #fff; font-size: 23px; 	padding-left: 2%;
+	padding-right: 2%;}
+.contact-details .mail a  { color: #fff; font-size: 23px; margin-top:20px; 	padding-left: 2%;
+	padding-right: 2%;}
 .contact-form {
     background: #fff;
     padding: 60px 60px  60px 125px;
