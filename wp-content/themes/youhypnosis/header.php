@@ -40,7 +40,7 @@
   <div class="headerTop">
     <div class="container">
       <ul>
-        <li><a href="tel:+512 213 5893"><i class="fa fa-volume-control-phone"></i> +512 213 5893</a></li>
+        <li><a href="tel:+1 512 213 5893"><i class="fa fa-volume-control-phone"></i> +1 512 213 5893</a></li>
         <li><a href="mailto:info.youhypnosis@gmail.com"><i class="fa fa-envelope-open-o"></i> info.youhypnosis@gmail.com</a></li>
       </ul>
     </div>
@@ -103,7 +103,7 @@
   </div>--> 
   
   <!-- <div class="callToday">
-	<p class="PhoneNumber"> Call Today <img src="<?php bloginfo('template_directory'); ?>/images/phone-icons.png">+512 213 5893 </p>
+	<p class="PhoneNumber"> Call Today <img src="<?php bloginfo('template_directory'); ?>/images/phone-icons.png">+1 512 213 5893 </p>
 	</div> --> 
   
 </header>
